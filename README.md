@@ -2,7 +2,7 @@
 Trabalho entregue ao professor Epaminondas de um sensor para aplicação  na irrigação
 <p>&nbsp;</p>
 <h1><a id="user-content-t&iacute;tulo-ou-nome-do-projeto" class="anchor" href="https://github.com/Epaminondaslage/Como-montar-seu-README#t%C3%ADtulo-ou-nome-do-projeto" aria-hidden="true"></a>Sensor de umidade para aplica&ccedil;&atilde;o de irriga&ccedil;&atilde;o&nbsp;</h1>
-<p>O presente projeto, tem como objetivo apresenta, solu&ccedil;&atilde;o para automa&ccedil;&atilde;o da irri&ccedil;&atilde;o residencial e comercial</p>
+<p>O presente projeto, tem como objetivo apresenta, solu&ccedil;&atilde;o para automa&ccedil;&atilde;o da irriga&ccedil;&atilde;o residencial e comercial</p>
 <h1><a id="user-content-descri&ccedil;&atilde;o" class="anchor" href="https://github.com/Epaminondaslage/Como-montar-seu-README#descri%C3%A7%C3%A3o" aria-hidden="true"></a>Descri&ccedil;&atilde;o</h1>
 <p>Com objetivo de reduzir os gastos com a irriga&ccedil;&atilde;o. Esse sitema, ajudano no manejo correto da &Aacute;gua, tanto em estufas quanto em plant&ccedil;&otilde;es convencionais. Isso possibilita maior efeci&ecirc;ncia e ec&ocirc;nomia.</p>
 <p>&nbsp;</p>
